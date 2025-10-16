@@ -13,10 +13,6 @@ Users can draw shapes, add text, use a pen tool, move and resize objects, change
 ### 🎨 Canvas Editor
 ![Canvas Editor Screenshot](./src/assets/canvas-editor.png)
 
-> *(Add screenshots in a folder named `screenshots` inside your project root.)*
-
----
-
 ---
 
 ## 🚀 Features
