@@ -114,7 +114,7 @@ const CanvasEditor = () => {
       </header>
 
       <div className="flex flex-1 overflow-hidden">
-        <aside className="w-64 bg-gray-100 text-black p-4 flex flex-col gap-4">
+        <aside className="w-20 bg-gray-100 text-black p-4 flex flex-col gap-4">
           <h2 className="font-semibold text-lg mb-2">Tools</h2>
 
           <div className="flex flex-col gap-3">
